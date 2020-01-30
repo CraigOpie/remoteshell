@@ -13,8 +13,8 @@ import subprocess
 
 
 s = socket.socket()
-host = 'http://35.247.92.172'
-port = 1024
+host = 'http://craigshome.duckdns.org'
+port = 88
 
 
 s.connect((host, port))
